@@ -7,7 +7,7 @@ def show(image):
     cv2.destroyAllWindows()
 
 
-path = ".\sample1.jpg"
+path = ".\sample2.jpg"
 img = cv2.imread(path)
 
 
